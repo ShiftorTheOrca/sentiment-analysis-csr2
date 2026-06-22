@@ -1,6 +1,8 @@
 # Sentiment Analysis of CSR Racing 2 Reviews
 
-This project performs sentiment analysis on user reviews of the CSR Racing 2 mobile game collected from Google Play Store. The workflow includes data scraping, text preprocessing, automatic sentiment labeling, model training, and sentiment prediction for new review texts.
+**NOTE: THIS README FILE IS AI GENERATED.**
+
+This project is a submission for a deep learning module by **Dicoding Indonesia**. This project performs sentiment analysis on user reviews of the CSR Racing 2 mobile game collected from Google Play Store. The workflow includes data scraping, text preprocessing, automatic sentiment labeling, model training, and sentiment prediction for new review texts.
 
 ## Project Structure
 
